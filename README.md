@@ -38,14 +38,20 @@ būs pieci cikli
 
 **13.** Rakstu print (tas ir izvadīšanas operātors) lai uz ekrāna izvadītos, Piemēram, 
 print(f'{j + 1}. Jautājums ir: {skol_jautajums[j]}')
+
 __1.__  1. Jautājums ir: 1+1 
+
 __2.__ 2. Jautājums ir: 2/2
+
 __3.__ 3. Jautājums ir: 3*3
 
 **14** Rakstu mainīgo, kurā glabāsies skolēna ievadītas atbildes. ar funkciju 'input' lietotājs var ievadīt tekstu.
 * 14.1 Pēc mainīgas es uzrakstiju skolnieks[j], lai šis mainīgais darbotos un satur to ciklu, kura mainīgais bija j
+* 
 __1.__ Jūsu atbilde uz 1. jautājumu = 2
+
 __2.__ Jūsu atbilde uz 2. jautājumu = 1
+
 __3.__ Jūsu atbilde uz 3. jautājumu = 9
 
 
