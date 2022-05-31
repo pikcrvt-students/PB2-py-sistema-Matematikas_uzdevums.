@@ -19,7 +19,7 @@ Piemēram:
 ievadiju 5 
 būs pieci cikli 
 
-* 9. rakstu mainīgu, kura bija iepriekš "skol_jautājumi". 
+* 9.  rakstu mainīgu, kura bija iepriekš "skol_jautājumi". 
 * 9.1 es ievadu mainīgu un [i] tas norāda un cikla mainīgo, cik reizes mums būs cikls
 * 9.2 es ievadu 'input'. Tā ir funkcija priekš tā, lai lietotājs pats ievadītu tekstu.
 * 9.3 es ievadu f pirms opostrofiem, lai es varētu rakstīt tekstu un {funkcijas}, bez + un komatiem
