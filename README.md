@@ -7,8 +7,11 @@
 **2.** Es importoju os(system) priekš koda, lai cmd viņš būtu rādijies un neaizvērās.
 
 **4.** Es izmantoju funkciju(def), funkciju izveidošanu, funkcijas nosaukumu "skolotaja_uzdevumi_izvade" un parametru(n) kuru ievadīšu.
+
 **5.** Pēc def vajag likt kolu lai norādītos kā tā ir funkcija un nākamā rinda būtu 4 atstarpēm tālāk, tālāk es visu rakstīšu tajā fukcijā.
+
 **6.** Es ievadu četras mainīgas priekš masīva izveidošanai (masīvs ir list, kur glabāsies lietotāja dati) reizinu to uz n, jo n es ievadu, cik uzdevumu skolotājs grib uzdot.
+
 **7.** 130 rindā es ievadiju tikai nulli, priekš pareizo atbildi skaitīšanas un glabāšanas (mainīgais)
 
 **8.** izveidoju ciklu for, lai tas darbotos tik reižu, cik iepriekš ievadīju numuru.
@@ -56,6 +59,7 @@ __1.__ balle + 1
 __3.__ balle + 0
 
 **17.** Es ievadu print(), lai būtu tukša rinda
+
 **18.** Es izvadīšu cik punktus dabūja skolēns un reķināsu, kāda skolēnam ir balle.
 - __1.__ balle = 2/3.    skolēns dabūja 7 balles.
 * 18.1  Es izsaucu funkciju un rakstu 'int' kurš rāda, kā ievadīt vajad tikai pilnos skaitļus.
