@@ -41,7 +41,7 @@ __3.__ 3. Jautājums ir: 3*3
 
 ##### **13** Rakstu mainīgo, kurā glabāsies skolēna ievadītas atbildes. ar funkciju 'input' lietotājs var ievadīt tekstu.
 * 13.1 Pēc mainīgas es uzrakstiju skolnieks[j], lai šis mainīgais darbotos un satur to ciklu, kura mainīgais bija j
-* 
+ 
 __1.__ Jūsu atbilde uz 1. jautājumu = 2
 
 __2.__ Jūsu atbilde uz 2. jautājumu = 1
