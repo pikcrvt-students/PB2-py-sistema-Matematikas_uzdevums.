@@ -64,7 +64,7 @@ __3.__ 10 == 9, nē
 
 **16.** jā atbildes ir vienādas tad mainīgajā "balles" iet + 1 punkts, no kura pēc tam skaitīsies balles.
 __1.__ balle + 1
-**2.** balle + 1
+__2.__ balle + 1
 __3.__ balle + 0
 
 **17.** Es ievadu print(), lai būtu tukša rinda
