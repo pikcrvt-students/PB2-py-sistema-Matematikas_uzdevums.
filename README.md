@@ -31,8 +31,11 @@ būs pieci cikli
 5
 
 **10.** Ievadu mainīgu atbildes lai es varētu uzrakstīt visas atbildes priekš uzdevumiem jar funkcijām input un pēc mainīgas []
+
 **11.** Ievadu "os.system('cls')", lai pēc tā kā skolotājs ierakstija uzdevumus un atbildes, prikeš skolnieka atbildes izdzēsās.
+
 **12.** Rakstu ciklu for, lai norādi cik būtu ciklu.
+
 **13.** Rakstu print (tas ir izvadīšanas operātors) lai uz ekrāna izvadītos, Piemēram, 
 print(f'{j + 1}. Jautājums ir: {skol_jautajums[j]}')
 __1.__  1. Jautājums ir: 1+1 
