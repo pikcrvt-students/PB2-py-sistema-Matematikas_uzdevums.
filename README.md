@@ -13,7 +13,7 @@
 **8.** izveidoju ciklu for, lai tas darbotos tik reižu, cik iepriekš ievadīju numuru.
 Piemēram:
 ievadiju 5 
-būs pieci cikli
+būs pieci cikli 
 
 * 9. rakstu mainīgu, kura bija iepriekš "skol_jautājumi". 
 * 9.1 es ievadu mainīgu un [i] tas norāda un cikla mainīgo, cik reizes mums būs cikls
