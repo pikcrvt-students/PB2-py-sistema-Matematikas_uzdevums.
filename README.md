@@ -10,6 +10,7 @@
 **5.** Pēc def vajag likt kolu lai norādītos kā tā ir funkcija un nākamā rinda būtu 4 atstarpēm tālāk, tālāk es visu rakstīšu tajā fukcijā.
 **6.** Es ievadu četras mainīgas priekš masīva izveidošanai (masīvs ir list, kur glabāsies lietotāja dati) reizinu to uz n, jo n es ievadu, cik uzdevumu skolotājs grib uzdot.
 **7.** 130 rindā es ievadiju tikai nulli, priekš pareizo atbildi skaitīšanas un glabāšanas (mainīgais)
+
 **8.** izveidoju ciklu for, lai tas darbotos tik reižu, cik iepriekš ievadīju numuru.
 Piemēram:
 ievadiju 5 
