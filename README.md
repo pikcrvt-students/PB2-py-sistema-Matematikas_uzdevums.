@@ -31,7 +31,7 @@ būs pieci cikli
 **12.** Rakstu ciklu for, lai norādi cik būtu ciklu.
 **13.** Rakstu print (tas ir izvadīšanas operātors) lai uz ekrāna izvadītos, Piemēram, 
 print(f'{j + 1}. Jautājums ir: {skol_jautajums[j]}')
-__1.__  1. Jautājums ir: 1+1
+__1.__  1. Jautājums ir: 1+1 
 __2.__ 2. Jautājums ir: 2/2
 __3.__ 3. Jautājums ir: 3*3
 
