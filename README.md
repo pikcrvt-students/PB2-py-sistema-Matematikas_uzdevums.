@@ -1,0 +1,1 @@
+# PB2-py-sistema-Matematikas_uzdevums_Aleksandrs_Ostrovskis
