@@ -48,7 +48,7 @@ __3.__ Jūsu atbilde uz 3. jautājumu = 9
 
 ##### **14.** Es uzrakstiju funkciju if, tā ir funkcija, kura salīdzina divus nosacījumus. 
 * 15.1 es salīdzināju ievadītas skolēna atbildes un skolotājas atbildes
-* 
+ 
 __1.__ 2 == 2, jā  
 
 __2.__ 1 == 1, jā
