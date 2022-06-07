@@ -1,0 +1,42 @@
+#Pakapes:
+a - baze
+b - kapinatajs
+c - kapinasanas rezultats jeb pakapes rezultats
+
+a(b pakape)
+
+
+Izpeti, ka lasa pakapes!
+ 
+a kvadrata jeb a otraja pakape:
+a(2 pakape) = a · a
+ 
+a kuba jeb a trešaja pakape:
+a(3 pakape) = a · a · a
+ 
+a ceturtaja pakape:
+a(4 pakape) = a · a · a · a
+Piemers:
+5 kvadrata:
+5(2 pakape) = 5 · 5 = 25
+ 
+5 kuba:
+5(3 pakape) = 5 · 5 · 5 = 125
+ 
+5 ceturtaja pakape:
+5(4 pakape) = 5 · 5 · 5 · 5 = 625
+
+#Faktorials
+
+Pielietojot reizinašanas likumu, biei vien nakas aprekinat reizinajumus, kuros ir sareizinati pec kartas sekojoši naturalie skaitli, sakot ar 1. Piemeram, 1·2·3·4·5·6·7 utt.
+Ne vienmer ir svarigi noteikt reizinajuma skaitlisko iznakumu. Lai varetu isak pierakstit šada veida izteiksmes, matematika tiek lietots simbols "!".
+Visu naturalo skaitlu no 1 lidz n reizinajumu sauc par skaitla n faktorialu un apzime n! (lasa: "en" faktorials):"
+n!=1·2·3·...·(n-2)·(n-1)·n
+Pienemts, ka 0!=1  
+1! = 1
+2! = 2 · 1 = 2
+3! = 3 · 2 · 1 = 6
+4! = 4 · 3 · 2 · 1 = 24
+5! = 5 · 4 · 3 · 2 · 1 = 120
+6! = 6 · 5 · 4 · 3 · 2 · 1 = 720
+
