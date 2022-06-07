@@ -90,6 +90,6 @@ def skolotaja_tests(n):
 
 pakapes_teorija()
 faktorials_teorija(int(input('Izvēlaties kādu fatoriāla skaitli jūs gribat uzzināt: ')))
-skolotaja_tests(int(input('Izvēlaties cik jūs gribat uzdevumus: ')))      # funkcijas izsaukšana
+skolotaja_tests(int(input('Izvēlaties cik jūs gribat uzdevumus, priekš testa uz atzīmi(ievada skolotājs): ')))      # funkcijas izsaukšana
 
 os.system('pause')
