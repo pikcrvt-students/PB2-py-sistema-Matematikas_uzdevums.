@@ -7,7 +7,7 @@ Programma palīdz matemātikas skolotājai izveidot un pārbaudīt testu skolēn
 
 print('Teorija par faktoriālu un pakāpēm!\n')
 
-faila_mainigais = open('teory.txt')
+faila_mainigais = open('teory.txt', "r", encoding='ANSI')
 print( faila_mainigais.read())
 faila_mainigais.close
 
